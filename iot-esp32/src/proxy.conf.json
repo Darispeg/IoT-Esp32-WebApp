@@ -1,0 +1,6 @@
+{
+    "/api": {
+    "target": "https://emi-cbba-esp32.onrender.com",
+    "secure": false
+    }
+}
